@@ -1,0 +1,13 @@
+Test Case,Array Size,Time (seconds)
+Random,100,0
+Sorted,100,0
+Reverse-Sorted,100,0
+Duplicate,100,0
+Random,1000,0
+Sorted,1000,0
+Reverse-Sorted,1000,0
+Duplicate,1000,0
+Random,10000,0
+Sorted,10000,0.00451
+Reverse-Sorted,10000,0.001536
+Duplicate,10000,0.034426
