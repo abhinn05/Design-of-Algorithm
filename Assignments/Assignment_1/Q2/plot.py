@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-df = pd.read_csv(r'D:\\College\\Sem 3\\Design of Algorithm\\2024\\Assignments\\Assignment__1\\Q2\\output\\sorting_performance_2.csv')
+df = pd.read_csv('sorting_performance_2.csv')
 plt.figure(figsize=(10, 6))
 
 colors = ['blue', 'grey', 'red', 'c', 'm', 'y', 'k']
